@@ -1,0 +1,14 @@
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+div{
+ margin: 30px;
+ background-color: white;
+ box-shadow: 0 0 10px black;
+ height: 800px;
+}
+p{
+    color: brown;
+    padding: 40px;
+}
